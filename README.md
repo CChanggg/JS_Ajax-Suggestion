@@ -1,0 +1,2 @@
+# JS_Ajax-Suggestion
+JavaScript实现城市搜索suggestion功能
